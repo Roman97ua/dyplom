@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dyplom</string>
+    <string name="text_tab">LayoutInflater </string>
+    <string name="add_record">Добавити</string>
+    <string name="delete_record">Видалити</string>
+    <string name="action_settings">Settings</string>
+</resources>
